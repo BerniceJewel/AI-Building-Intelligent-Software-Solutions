@@ -1,4 +1,4 @@
-# AI-WK-4-Assignment
+Building Intelligent Software Solutions
 
 Group 24
 
